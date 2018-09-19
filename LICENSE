@@ -3,8 +3,14 @@ LICENSE
 Copyright (c) 2018 Eduard Sesigin. All rights reserved. Contacts: <claygod@yandex.ru>
 The license for this software and associated documentation files (the "Software").
 
-"Software" is distributed under a commercial license. The documentation is part of the "Software".
-For information about selling software, contact the author of the software by e-mail.
+"Software" is available under different licensing options designed to accommodate the needs of our various users:
+
+1) "Software" licensed under the “Commons Clause” License Condition version 1.0 (the text of the license is available on commonsclause.com and its copy is attached below***) , is appropriate for the use of "Software" provided you can comply with the terms and conditions of the “Commons Clause” License Condition version 1.0.
+2) "Software" licensed under commercial licenses is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the “Commons Clause” License Condition version 1.0.
+
+"Software" documentation is licensed under the terms of the “Commons Clause” License Condition version 1.0, as published by the Free Software Foundation. Alternatively, you may use the documentation in accordance with the terms contained in a written agreement between you and the author of the documentation.
+
+For information about selling software, contact the author of the software by e-mail
 
 DISCLAIMER
 
@@ -13,3 +19,11 @@ THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRI
 THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
+
+*** “Commons Clause” License Condition v1.0
+
+The Software is provided to you by the Licensor under the License, as defined below, subject to the following condition.
+
+Without limiting other conditions in the License, the grant of rights under the License will not include, and the License does not grant to you, the right to Sell the Software.
+
+For purposes of the foregoing, “Sell” means practicing any or all of the rights granted to you under the License to provide to third parties, for a fee or other consideration (including without limitation fees for hosting or consulting/ support services related to the Software), a product or service whose value derives, entirely or substantially, from the functionality of the Software. Any license notice or attribution required by the License must also include this Commons Cause License Condition notice.
