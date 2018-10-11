@@ -11,9 +11,3 @@ type Pair struct {
 	MoneyAB           TwoMoney
 	MinAmountAndDepth FinData64
 }
-
-//type Pair struct {
-//	MoneyA            Money
-//	MoneyB            Money
-//	MinAmountAndDepth FinData64
-//}
